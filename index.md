@@ -5,7 +5,9 @@ nav_order: 1
 permalink: /
 ---
 
-Hello, home!
+# Hello, home!
+
+## Content
 
 ----
 

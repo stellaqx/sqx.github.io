@@ -1,10 +1,16 @@
 ---
-title: A minimal layout page
+title: Chapter 1
 layout: minimal
 parent: SCIP
 ---
 
 # A child minimal layout page for SCIP
+
+content
+
+## Sample
+
+content 2
 
 ---
 
