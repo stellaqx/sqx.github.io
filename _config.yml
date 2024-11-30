@@ -1,0 +1,7 @@
+title: Stella's Personal Blog
+description: A starter blog for Stella
+theme: just-the-docs
+
+url: https://stellax.github.io
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
