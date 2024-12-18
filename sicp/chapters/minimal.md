@@ -1,10 +1,10 @@
 ---
 title: Chapter 1
 layout: minimal
-parent: SCIP
+parent: SICP
 ---
 
-# A child minimal layout page for SCIP
+# A child minimal layout page for SICP
 
 content
 
